@@ -19,4 +19,6 @@ Here are some ideas to get you started:
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=panchajanya1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=panchajanya1999&show_icons=true&theme=highcontrast&show=prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=false&hide_rank=true&hide_title=true)
+
 </div>
